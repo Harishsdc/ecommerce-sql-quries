@@ -1,0 +1,6 @@
+payment_id,order_id,payment_method,status
+501,1001,Credit Card,Completed
+502,1002,UPI,Completed
+503,1003,Debit Card,Pending
+504,1004,Net Banking,Completed
+505,1005,Credit Card,Completed
